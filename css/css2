@@ -1,0 +1,146 @@
+@charset "utf-8";
+
+
+body {
+    letter-spacing: 1.75px;
+    width: 960px;
+    font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+    font-size: 16px;
+}
+
+.title_section {
+    color: aqua;
+    background-color: aquamarine;
+}
+
+
+
+html {
+    font-size: 62.5%;/＊ 16px × 62.5%=10px＊
+}
+
+body {
+    letter-spacing: 1.75px;
+    width: 960px;
+    font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
+    font-size: 16px;
+}
+
+.title_section {
+    background: url(../img/mainbg.png);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    letter-spacing: 1.75px;
+    line-height: 50px;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.title_section p {
+    font-size: 25px;
+}
+
+.tag {
+    display: flex;
+}
+
+.tag_img {
+    width: 50%;
+    height: 100%;
+}
+
+
+
+.tag_text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+.profile-wrapper {
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.course_01 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.corse_text {
+    font-size: 24px;
+    color: #222222;
+    margin: 64px 0px 0px 0px;
+}
+
+.corse_text2 {
+    font: 16px;
+}
+
+.corse_text3 {
+    font-size: 16px;
+}
+
+.box22 {
+    display: flex;
+}
+
+.img_section_img {
+    width: 50%;
+}
+
+.img_section_text {
+    width: 50%;
+
+}
+
+.text_1 {
+    margin: 120px 0px 0px 0px;
+    color: #ffd61a;
+    font-size: 24px;
+}
+
+.text_2 {
+    margin: 24px 0px 0px 0px;
+    font-size: 16px;
+}
+
+.text_3 {
+    margin: 64px 0px 0px 0px;
+    font-size: 16px;
+}
+
+.text_4 {
+    margin: 40px 0px 0px 0px;
+    font-size: 16px;
+}
+
+.imag_slide {
+    margin: 80px 0px 0px 0px;
+}
